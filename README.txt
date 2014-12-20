@@ -1,0 +1,1 @@
+The beginnings of meetup assistant
